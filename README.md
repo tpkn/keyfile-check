@@ -1,4 +1,8 @@
 
+Unreliable, insecure and easily compromised mechanism. Provides the same level of security as if you just gave your app for free.
+
+
+
 ## Usage
 ```javascript
 const kc = require('keyfile-check');
