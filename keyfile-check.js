@@ -1,5 +1,5 @@
 /*!
- * Keyfile Check (v1.0.0.20171027), http://tpkn.me/
+ * Keyfile Check (v1.0.1.20171027), http://tpkn.me/
  */
 
 const fs = require('fs');
